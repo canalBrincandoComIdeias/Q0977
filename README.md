@@ -4,7 +4,7 @@
 
 Projeto do Vídeo Q0977 Série **_Maratona Maker_** powered by **_Petrobras_**
 
-:video_camera: Assista o vídeo [CLIQUE AQUI]()
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/b9HRU_zGdcc)
 
 
 - Confira esse e outros projetos de Pico assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdXZPsliWfsWQu_ReiOFuv9)
